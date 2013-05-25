@@ -1,5 +1,6 @@
 dgram = require 'dgram'
 helpers = require 'helpers'
+decorators = require 'decorators'
 
 exports.send = send = (msg) ->
     message = new Buffer JSON.stringify msg

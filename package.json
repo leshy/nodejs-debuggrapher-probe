@@ -1,0 +1,24 @@
+{
+  "name": "debuggrapher-probe",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.coffee",
+  "dependencies": {
+      "helpers": "git://github.com/leshy/nodejs-helpers.git",
+	  "decorators": "git://github.com/leshy/nodejs-decorators.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/leshy/nodejs-debuggrapher-probe.git"
+  },
+  "author": "lesh",
+  "license": "BSD",
+  "gitHead": "71065534e4d05139699952d61a61a9a0114d487f",
+  "bugs": {
+    "url": "https://github.com/leshy/nodejs-debuggrapher-probe/issues"
+  }
+}
